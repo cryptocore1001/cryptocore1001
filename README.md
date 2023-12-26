@@ -1,5 +1,17 @@
-[![](https://raw.githubusercontent.com/issy-s16/issy-s16/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/trueheart777/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/issy-s16/issy-s16/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/trueheart777/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/issy-s16/issy-s16/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/trueheart777/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/issy-s16/issy-s16/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/trueheart777/github-profile-summary-cards)
+### Hi there 👋
 
+<p align="center">
+<img src='https://github-readme-stats.friederbluemle.vercel.app/api?username=friederbluemle&show_icons=true&hide=stars&count_private=true&card_width=418' alt='GitHub Stats' width='418'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/1x1_placeholder.png" width="8px" alt=""/>
+<img src='https://github-readme-stats.friederbluemle.vercel.app/api/top-langs/?username=friederbluemle&hide=swift,php&layout=compact&card_width=418' alt='Most Used Languages' width='418'>
+</p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'>][1]&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'>][2]&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='32'>][3]&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='32'>][4]
+
+[1]: https://github.com/friederbluemle
+[2]: https://www.linkedin.com/in/friederbluemle/
+[3]: https://stackoverflow.com/users/friederbluemle
+[4]: https://twitter.com/friederbluemle
