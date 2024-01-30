@@ -103,8 +103,8 @@ Feel free to contact me if you need any help.<br>
 
 ### 👨‍💻 Top Languages Used:
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hightecular95908&theme=nord_dark" alt="Top Languages by Repo" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hightecular95908&theme=nord_dark" alt="Top Languages by Commits" /></p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trueheart777&theme=nord_dark" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trueheart777&theme=nord_dark" alt="Top Languages by Commits" /></p>
   
   Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
