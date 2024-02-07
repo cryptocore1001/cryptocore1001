@@ -69,7 +69,7 @@ Development of classic client-server and other centralized software needed to ac
 
 ### My Projects 🙌
 
-#### [See in Portfolio](https://bufan-ai-portfolio.vercel.app/)
+####
 
 ### 👨‍💻 Top Languages Used:
 <p align="center">
