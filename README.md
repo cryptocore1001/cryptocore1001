@@ -71,13 +71,7 @@ Development of classic client-server and other centralized software needed to ac
 
 ####
 
-### 👨‍💻 Top Languages Used:
-<p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trueheart777&theme=nord_dark" alt="Top Languages by Repo" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trueheart777&theme=nord_dark" alt="Top Languages by Commits" /></p>
-  
-  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -93,7 +87,14 @@ Development of classic client-server and other centralized software needed to ac
 
 
 
- ![bufan's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=trueheart777&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+ <!--![bufan's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=trueheart777&theme=react-dark&area=true&hide_border=true#gh-light-mode-only) 
+   ### 👨‍💻 Top Languages Used:
+<p align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trueheart777&theme=nord_dark" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trueheart777&theme=nord_dark" alt="Top Languages by Commits" /></p>
+  
+  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+-->
  
  <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=trueheart777.trueheart777" alt="trueheart777" />
 
