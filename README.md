@@ -34,7 +34,7 @@ He is also actively involved in developing blockchain-based solutions for variou
 <br><br>
 For more information, please visit 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝗳𝘂𝗹𝗹 𝗠𝗘𝗥𝗡/𝗠𝗘𝗔𝗡/𝗟𝗔𝗠𝗣/𝗪𝗜𝗠𝗣/𝗠𝗘𝗩𝗡 𝘀𝘁𝗮𝗰𝗸𝘀:
 <br><br>
-Node.js | React.js | Vue.js | Angular | Bootstrap | Material UI | Semantic UI | JavaScript | Python | Flask | Django | Golang | Java | TypeScript | MySQL | MongoDB | Redis | Memcache | Elasticsearch | Vue.js | AWS | PostgreSQL
+Node.js | React.js | Vue.js | Angular | Bootstrap | Material UI | Semantic UI | JavaScript | RUST | Python | Flask | Django | Golang | Java | TypeScript | MySQL | MongoDB | Redis | Memcache | Elasticsearch | Vue.js | AWS | PostgreSQL
 
 <br><br>
 All work related to the blockchain itself: development of public or private blockchains, smart contracts on Ethereum Solidity, ICO and pre-ICO preparation, and all "decentralized" parts of code and data storage.
