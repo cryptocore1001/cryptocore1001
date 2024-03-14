@@ -12,12 +12,12 @@ Hey there, Thanks for visiting my profile...
 
 <!-- ### Checkout my flagship project: [Let's Learn Linux](https://letslearnlinux.tech/)  👈
 
-### Checkout my automation project: [Get Pair Extraordinaire](https://github.com/trueheart777/Get-Pair-Extraordinaire)  👈 -->
+### Checkout my automation project: [Get Pair Extraordinaire](https://github.com/fastdev777/Get-Pair-Extraordinaire)  👈 -->
 
 <!--
 ### Let's Connect 🤳
 
- <a href="https://www.linkedin.com/in/trueheart777/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Volodymyr+Bufan &color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Volodymyr Bufan"></a>
+ <a href="https://www.linkedin.com/in/fastdev777/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Volodymyr+Bufan &color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Volodymyr Bufan"></a>
 [![Gmail - Volodymyr Bufan](https://img.shields.io/badge/Gmail-VolodymyrBufan -red?logo=gmail&logoColor=red)](pioneer95908@gmail.com)
 -->
 
@@ -75,28 +75,28 @@ Development of classic client-server and other centralized software needed to ac
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/trueheart777">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trueheart777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trueheart777&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/fastdev777">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fastdev777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fastdev777&layout=compact&langs_count=8&theme=algolia"/>
 </a>
  <br />
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trueheart777&theme=algolia" alt="trueheart777" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fastdev777&theme=algolia" alt="fastdev777" /></p>
 
-<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=trueheart777&column=6&theme=algolia" alt="trueheart777Trophy" /></p>
+<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=fastdev777&column=6&theme=algolia" alt="fastdev777Trophy" /></p>
 
 
 
- <!--![bufan's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=trueheart777&theme=react-dark&area=true&hide_border=true#gh-light-mode-only) 
+ <!--![bufan's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=fastdev777&theme=react-dark&area=true&hide_border=true#gh-light-mode-only) 
    ### 👨‍💻 Top Languages Used:
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trueheart777&theme=nord_dark" alt="Top Languages by Repo" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trueheart777&theme=nord_dark" alt="Top Languages by Commits" /></p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fastdev777&theme=nord_dark" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fastdev777&theme=nord_dark" alt="Top Languages by Commits" /></p>
   
   Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 -->
  
- <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=trueheart777.trueheart777" alt="trueheart777" />
+ <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=fastdev777.fastdev777" alt="fastdev777" />
 
 </p>
 
