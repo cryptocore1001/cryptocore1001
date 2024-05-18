@@ -12,12 +12,12 @@ Hey there, Thanks for visiting my profile...
 
 <!-- ### Checkout my flagship project: [Let's Learn Linux](https://letslearnlinux.tech/)  👈
 
-### Checkout my automation project: [Get Pair Extraordinaire](https://github.com/fastdev76372/Get-Pair-Extraordinaire)  👈 -->
+### Checkout my automation project: [Get Pair Extraordinaire](https://github.com/cryptocore1001/Get-Pair-Extraordinaire)  👈 -->
 
 <!--
 ### Let's Connect 🤳
 
- <a href="https://www.linkedin.com/in/fastdev76372/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Volodymyr+Bufan &color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Volodymyr Bufan"></a>
+ <a href="https://www.linkedin.com/in/cryptocore1001/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Volodymyr+Bufan &color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Volodymyr Bufan"></a>
 [![Gmail - Volodymyr Bufan](https://img.shields.io/badge/Gmail-VolodymyrBufan -red?logo=gmail&logoColor=red)](pioneer95908@gmail.com)
 -->
 
@@ -75,23 +75,23 @@ Development of classic client-server and other centralized software needed to ac
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/fastdev76372">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fastdev76372&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fastdev76372&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/cryptocore1001">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cryptocore1001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cryptocore1001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
  <br />
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fastdev76372&theme=algolia" alt="fastdev76372" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptocore1001&theme=algolia" alt="cryptocore1001" /></p>
 
-<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=fastdev76372&column=6&theme=algolia" alt="fastdev76372Trophy" /></p>
+<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=cryptocore1001&column=6&theme=algolia" alt="cryptocore1001Trophy" /></p>
 
 
 
- <!--![bufan's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=fastdev76372&theme=react-dark&area=true&hide_border=true#gh-light-mode-only) 
+ <!--![bufan's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=cryptocore1001&theme=react-dark&area=true&hide_border=true#gh-light-mode-only) 
    ### 👨‍💻 Top Languages Used:
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fastdev76372&theme=nord_dark" alt="Top Languages by Repo" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fastdev76372&theme=nord_dark" alt="Top Languages by Commits" /></p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cryptocore1001&theme=nord_dark" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cryptocore1001&theme=nord_dark" alt="Top Languages by Commits" /></p>
   
   Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 -->
