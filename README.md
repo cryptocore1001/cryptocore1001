@@ -24,7 +24,7 @@ Hey there, Thanks for visiting my profile...
 ### About Me 🚀<br>
 
  <p align="justify">
-🌱 Senior Full stack developer.
+🌱 Full-Stack Web/Blockchain engineer.
 
 🌱 Major Experiences
 
