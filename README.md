@@ -24,9 +24,17 @@ Hey there, Thanks for visiting my profile...
 ### About Me 🚀<br>
 
  <p align="justify">
-Blockchain Engineer | RUST | NFT | Solidity | Ethereum | DApps
+🌱 Senior Full stack developer.
+
+🌱 Major Experiences
+
+• Web design and Fronend Develpment with React.JS, Next.JS, Vue.JS, Typescript, TailwindCSS.
+
+• Backend Development with Node.JS, GraphQL, Golang, .NET, Django.
+
+• Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
 <br><br>
-I am a blockchain engineer and enthusiast who provides blockchain solutions to startups and enterprises. I help review business models and align businesses within the growing blockchain ecosystem. I work with blockchain consensus mechanisms (POW, POS, DPOS, POC, POI), Ethereum, Bitcoin, EOS, smart contracts, Web3js, Node.js, eosjs, Truffle Framework, Scatter, Metamask, Rust, Solidity, C++, Java, Angular JS, React JS, React Native, Redux, Hyperledger, Masternodes, etc.
+I am a Full-Stack Web/Blockchain engineer and enthusiast who provides blockchain solutions to startups and enterprises. I help review business models and align businesses within the growing blockchain ecosystem. I work with blockchain consensus mechanisms (POW, POS, DPOS, POC, POI), Ethereum, Bitcoin, EOS, smart contracts, Web3js, Node.js, eosjs, Truffle Framework, Scatter, Metamask, Rust, Solidity, C++, Java, Angular JS, React JS, React Native, Redux, Hyperledger, Masternodes, etc.
 <br><br>
 I have been developing blockchain solutions since 2016, including cryptocurrency exchanges (P2P and CEX), blockchain forks, token generation (ERC-20, ERC-721 NFTs), smart contracts, Defi, and a low gas consumption Ethereum bulk payment tool.
 <br><br>
