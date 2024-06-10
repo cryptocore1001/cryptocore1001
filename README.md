@@ -6,9 +6,9 @@
 </p>
 
 Hey there, Thanks for visiting my profile... 
-<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Volodymyr Bufan. -->
 
-<!-- ### Checkout my Portfolio: [Volodymyr Bufan](https://bufan-ai-portfolio.vercel.app/)  👈 -->
+
+
 
 <!-- ### Checkout my flagship project: [Let's Learn Linux](https://letslearnlinux.tech/)  👈
 
@@ -32,15 +32,13 @@ Hey there, Thanks for visiting my profile...
 
 • Backend Development with Node.JS, GraphQL, Golang, .NET, Django.
 
-• Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc)
+• Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Golang, Func, etc)
 <br><br>
-I am a Full-Stack Web/Blockchain engineer and enthusiast who provides blockchain solutions to startups and enterprises. I help review business models and align businesses within the growing blockchain ecosystem. I work with blockchain consensus mechanisms (POW, POS, DPOS, POC, POI), Ethereum, Bitcoin, EOS, smart contracts, Web3js, Node.js, eosjs, Truffle Framework, Scatter, Metamask, Rust, Solidity, C++, Java, Angular JS, React JS, React Native, Redux, Hyperledger, Masternodes, etc.
+I am a Full-Stack Web/Blockchain engineer and enthusiast who provides blockchain solutions to startups and enterprises. I help review business models and align businesses within the growing blockchain ecosystem. I work with blockchain consensus mechanisms (POW, POS, DPOS, POC, POI), Ethereum, Solana, Ton, EOS, smart contracts, Web3js, Node.js, eosjs, Truffle Framework, Scatter, Metamask, Rust, Solidity, C++, Java, Angular JS, React JS, React Native, Redux, Hyperledger, Masternodes, etc.
 <br><br>
 I have been developing blockchain solutions since 2016, including cryptocurrency exchanges (P2P and CEX), blockchain forks, token generation (ERC-20, ERC-721 NFTs), smart contracts, Defi, and a low gas consumption Ethereum bulk payment tool.
 <br><br>
 He is also actively involved in developing blockchain-based solutions for various industries. He is developing a dApp to democratize the global medical device industry. The platform will broker the medical device and consumables ecosystem, smart contract development, real estate investment via blockchain, and donations via blockchain.
-<br><br>
-For more information, please visit 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝗳𝘂𝗹𝗹 𝗠𝗘𝗥𝗡/𝗠𝗘𝗔𝗡/𝗟𝗔𝗠𝗣/𝗪𝗜𝗠𝗣/𝗠𝗘𝗩𝗡 𝘀𝘁𝗮𝗰𝗸𝘀:
 <br><br>
 Node.js | React.js | Vue.js | Angular | Bootstrap | Material UI | Semantic UI | JavaScript | RUST | Python | Flask | Django | Golang | Java | TypeScript | MySQL | MongoDB | Redis | Memcache | Elasticsearch | Vue.js | AWS | PostgreSQL
 
@@ -52,7 +50,7 @@ Development of classic client-server and other centralized software needed to ac
 ✅ RUST/Substratum blockchain development<br>
 ✅ Polkadot integration<br>
 ✅ Blockchain-based services<br>
-✅ Bitcoin | Ethereum | Other Coins<br>
+✅ Ethereum | Solana | Ton | Other Chains<br>
 ✅ Cryptocurrency and Telegram/Discord bots<br>
 ✅ Desktop and mobile bots for businesses<br>
 ✅ Customized web analytics for e-currencies<br>
@@ -95,13 +93,7 @@ Development of classic client-server and other centralized software needed to ac
 
 
 
- <!--![bufan's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=cryptocore1001&theme=react-dark&area=true&hide_border=true#gh-light-mode-only) 
-   ### 👨‍💻 Top Languages Used:
-<p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cryptocore1001&theme=nord_dark" alt="Top Languages by Repo" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cryptocore1001&theme=nord_dark" alt="Top Languages by Commits" /></p>
-  
-  Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 -->
 
 
