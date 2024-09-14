@@ -96,10 +96,6 @@ Development of classic client-server and other centralized software needed to ac
 <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=cryptocore1001&column=6&theme=algolia" alt="cryptocore1001Trophy" /></p>
 
 
-
-
--->
-
-
+😀😀😀
 <!-- ![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg) -->
 I'm a fast, time-saving developer.
