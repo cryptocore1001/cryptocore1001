@@ -21,6 +21,9 @@ Hey there, Thanks for visiting my profile...
 [![Gmail - Volodymyr Bufan](https://img.shields.io/badge/Gmail-VolodymyrBufan -red?logo=gmail&logoColor=red)](pioneer95908@gmail.com)
 -->
 
+## Visit count 🚀
+<img src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
+
 ### About Me 🚀<br>
 
  <p align="justify">
@@ -34,10 +37,8 @@ Hey there, Thanks for visiting my profile...
 
 • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Golang, Func, etc)
 <br><br>
-## Visit count 🚀
-<img src="https://profile-counter.glitch.me/fortunaphantom/count.svg" />
 
-I am a Full-Stack Web/Blockchain engineer and enthusiast who provides blockchain solutions to startups and enterprises. I help review business models and align businesses within the growing blockchain ecosystem. I work with blockchain consensus mechanisms (POW, POS, DPOS, POC, POI), Ethereum, Solana, Ton, EOS, smart contracts, Web3js, Node.js, eosjs, Truffle Framework, Scatter, Metamask, Rust, Solidity, C++, Java, Angular JS, React JS, React Native, Redux, Hyperledger, Masternodes, etc.
+I am a Full-Stack Web/Blockchain engineer and enthusiast who provides blockchain solutions to startups and enterprises. I help review business models and align businesses within the growing blockchain ecosystem. I work with blockchain consensus mechanisms (POW, POS, DPOS, POC, POI), Ethereum, Solana, Ton, EOS, Smart Contracts, Web3js, Node.js, eosjs, Hardhat, Scatter, Metamask, Rust, Solidity, C++, Java, Angular JS, React JS, React Native, Redux, Hyperledger, Masternodes, etc.
 <br><br>
 I have been developing blockchain solutions since 2016, including cryptocurrency exchanges (P2P and CEX), blockchain forks, token generation (ERC-20, ERC-721 NFTs), smart contracts, Defi, and a low gas consumption Ethereum bulk payment tool.
 <br><br>
@@ -67,10 +68,10 @@ Development of classic client-server and other centralized software needed to ac
   
 ### Languages 🧑‍💻 and Tools ⚙️:
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,py,c,cpp,cs,dotnet,html,css,js,bootstrap,php,md,java" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,py,c,cpp,cs,dotnet,html,css,js,ts,bootstrap,php,md,solidity, rust,ethereum,solana,ton" alt="skills logos" /> <br>
 
-### IDE, Editors and Game Engines 💻:
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,unity,unreal,vim,replit" alt="skills logos" />
+### IDE and Editors💻:
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,vim,replit" alt="skills logos" />
 
 ### Others 💻:
 
