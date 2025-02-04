@@ -86,15 +86,15 @@ Development of classic client-server and other centralized software needed to ac
 
 <p align="center">
 <a href="https://github.com/cryptocore1001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cryptocore1001&hide=prs&theme=algolia&layout=compact&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gastonponti&hide=prs&theme=algolia&layout=compact&show_icons=true"/>
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cryptocore1001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cryptocore1001&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gastonponti&layout=compact&langs_count=8&theme=algolia"/>
 </a>
  <br />
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptocore1001&theme=algolia" alt="cryptocore1001" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gastonponti&theme=algolia" alt="gastonponti" /></p>
 
-<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=cryptocore1001&column=6&theme=algolia" alt="cryptocore1001Trophy" /></p>
+<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=gastonponti&column=6&theme=algolia" alt="gastonpontiTrophy" /></p>
 
 
 😀😀😀
