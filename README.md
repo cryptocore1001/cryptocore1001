@@ -92,7 +92,7 @@ Development of classic client-server and other centralized software needed to ac
 </a>
  <br />
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gastonponti&theme=algolia" alt="gastonponti" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gastonponti&theme=algolia" alt="cryptocore1001" /></p> -->
 
 <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=gastonponti&column=6&theme=algolia" alt="gastonpontiTrophy" /></p>
 
